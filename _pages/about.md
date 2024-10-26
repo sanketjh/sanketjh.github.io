@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #Analog Design Engineer @ <a href='https://www.ti.com/'>Texas Instruemts</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Analog Design Engineer @ <a href='https://www.ti.com/'>Texas Instruemts</a></p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello and welcome to my website! I am Sanket J Hanamashetti. I graduated from IIT Bombay with a B.Tech (with Honours) in Electrical Engineering in 2023. Since July 2023, I have been working as an Analog Design Engineer at Texas Instruments. I have experience in designing analog/mixed-signal circuits through my job and my undergraduate degree. I am interested in analog, mixed-signal, RF circuit design, high-speed links, and SERDES.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Apart from work I enjoy playing tennis, watching football (come on Chelsea!), and hitting the gym. I am also trying to build a habit of reading; you can checkout my [goodreads](https://www.goodreads.com/user/show/105951920-sanket-hanamashetti) profile to see my progress!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
