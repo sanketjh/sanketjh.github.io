@@ -3,20 +3,25 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/prof_pic_me.jpg">
 
-My name is Kalpesh Krishna, and I am a Research Scientist at Google in the [Gemini team](https://gemini.google.com/). I recently received my PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research at UMass was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
+Hello and welcome to my website! I am Sanket J Hanamashetti. I graduated from [IIT Bombay](http://iitb.ac.in) with a B.Tech (with Honours) in Electrical Engineering in 2023. Since July 2023, I have been working as an Analog Design Engineer at [Texas Instruments](https://www.ti.com). I have experience in designing analog/mixed-signal circuits through my job and my undergraduate degree. I am interested in analog, mixed-signal, RF circuit design, high-speed links, and SERDES.
 
-I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've done some fun internships at [Google DeepMind](https://research.google) (Summer 2019 - Spring 2022), [Allen AI](https://allenai.org/) (Summer 2022), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
+Apart from work I enjoy playing tennis, watching football ([come on Chelsea!](https://x.com/hazardeden10/status/207194788620017664?lang=en)), and hitting the gym. I am also trying to build a habit of reading; you can checkout my [goodreads](https://www.goodreads.com/user/show/105951920-sanket-hanamashetti) profile to see my progress!
 
-I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=9g2BsMUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)  
-Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)  
 
-#### Updates
+<!-- My name is Kalpesh Krishna, and I am a Research Scientist at Google in the [Gemini team](https://gemini.google.com/). I recently received my PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) in the [UMass NLP](http://nlp.cs.umass.edu/) lab. My research at UMass was supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
-<div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
+I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've done some fun internships at [Google DeepMind](https://research.google) (Summer 2019 - Spring 2022), [Allen AI](https://allenai.org/) (Summer 2022), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016). -->
+
+<!-- I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. -->
+  
+Email ID: [sanketjh3@gmail.com](mailto:sanketjh3@gmail.com)  
+
+<!-- #### Updates -->
+
+<!-- <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
 <col width="100px">
 <col width="650px">
@@ -70,4 +75,4 @@ Email ID: [kalpeshk2011@gmail.com](mailto:kalpeshk2011@gmail.com)
 <tr><td><b>Aug 2018:</b></td><td> graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal</td></tr>
 <tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
 <tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
-<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr>
+<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr> -->
