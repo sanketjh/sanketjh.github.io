@@ -16,6 +16,8 @@ url: "https://sanketjh.github.io" # the base hostname & protocol for your site
 github_username:  sanketjh
 # twitter_username: 
 linkedin_username: sanket-j-hanamashetti-908976198/
+google_analytics:
+  id: "G-T0EKLHWMS4"
 # stackoverflow:
 include: ['_pages']
 footer-links-active:
