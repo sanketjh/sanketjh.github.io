@@ -5,9 +5,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/prof_pic_me.jpg">
 
-Hello and welcome to my website! I am Sanket J Hanamashetti. I graduated from [IIT Bombay](http://iitb.ac.in) with a B.Tech (with Honours) in Electrical Engineering in 2023. Since July 2023, I have been working as an Analog Design Engineer at [Texas Instruments](https://www.ti.com). I have experience in designing analog/mixed-signal circuits through my job and my undergraduate degree. I am interested in analog, mixed-signal, RF circuit design, high-speed links, and SERDES.
+Hello and welcome to my website! I am Sanket J Hanamashetti. I graduated from [IIT Bombay](http://iitb.ac.in) with a B.Tech (with Honours) in Electrical Engineering in 2023. I will be joining [Prof. Soumya Bose's lab](https://brics.engineering.ucsc.edu/) in the [ECE](https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/) department at [UCSC](https://www.ucsc.edu/) as a PhD student in Fall 2025. Previously, I worked as an Analog Design Engineer at [Texas Instruments](https://www.ti.com). I have experience in designing analog/mixed-signal circuits through my job and my undergraduate degree. I am interested in analog, mixed-signal, RF circuit design, high-speed links, and SERDES.
 
-Apart from work I enjoy playing tennis, watching football ([come on Chelsea!](https://x.com/hazardeden10/status/207194788620017664?lang=en)), and hitting the gym. I am also trying to build a habit of reading; you can checkout my [goodreads](https://www.goodreads.com/user/show/105951920-sanket-hanamashetti) profile to see my progress!
+Apart from work I enjoy playing tennis, watching football ([come on Chelsea!](https://x.com/hazardeden10/status/207194788620017664?lang=en)), and running. I am also trying to build a habit of reading; you can checkout my [goodreads](https://www.goodreads.com/user/show/105951920-sanket-hanamashetti) profile to see my progress!
 
 
 
@@ -17,7 +17,7 @@ I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the pa
 
 <!-- I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. -->
   
-Email ID: [sanketjh3@gmail.com](mailto:sanketjh3@gmail.com)  
+Email ID: [shanamas@ucsc.edu](mailto:shanamas@ucsc.edu)  
 
 <!-- #### Updates -->
 
