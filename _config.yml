@@ -8,7 +8,7 @@
 # Site settings
 title: Sanket Hanamashetti
 full_name: Sanket J. Hanamashetti
-email: shanamas@ucsc.edu
+email: sanketjh@ucsc.edu
 # email2: 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
