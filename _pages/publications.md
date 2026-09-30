@@ -12,7 +12,7 @@ I am interested in exploring analog, mixed-signal, RF circuit design, high-speed
 <i>Sanket Hanamashetti</i>, Venkatesh Vadde, and Bhaskaran Muralidharan  
 Physica Scripta 99.7 (2024):075923. doi:[10.1088/1402-4896/ad5083](https://doi.org/10.1088/1402-4896/ad5083)
 
-### Conference
+### Conferences
 
 * [A 1-2.5 V Fast In-Pixel Active Quench and Reset Circuit for SPADs in 40nm CMOS](https://ieeexplore.ieee.org/abstract/document/11680757)\
 <i>Sanket Hanamashetti</i> and Soumya Bose\
