@@ -20,7 +20,7 @@ I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the pa
   
 Email ID: [sanketjh@ucsc.edu](mailto:sanketjh@ucsc.edu)  
 
-Last Updated: September 17, 2026
+Last Updated: September 30, 2026
 
 <!-- #### Updates -->
 
